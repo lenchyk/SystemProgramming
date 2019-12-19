@@ -1,0 +1,12 @@
+const n=10;
+var
+a: array [1..5] of integer;
+b, n: integer;
+begin
+a[1]:=1;
+a[2]:=2;
+b:=0;
+n:=2;
+b:=b+a[n];
+n:=n-1;
+end.

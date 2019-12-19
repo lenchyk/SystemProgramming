@@ -1,0 +1,14 @@
+mov ebx, -1.1
+mov a[0], ebx
+mov ebx, 3.1
+mov a[4], ebx
+mov ebx, -6.1
+mov a[8], ebx
+mov ebx, 3
+mov a[12], ebx
+mov ebx, -4
+mov a[16], ebx
+mov ebx, 0
+mov n, ebx
+mov ebx, 0
+mov b, ebx

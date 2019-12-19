@@ -1,0 +1,5 @@
+double *b, a[4];
+char n;
+b:=b+a[n];
+n:=n-1;
+n=0;
